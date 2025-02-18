@@ -1,6 +1,6 @@
 # Typing Animation Effect in Android ✨
 
-A smooth **typing effect** built using `ValueAnimator`, featuring **adjustable speed** and **easing effects** for a natural transition. Inspired by ReactBits! 🚀
+A smooth **typing effect** built using `ValueAnimator`, featuring **adjustable speed** and **easing effects** for a natural transition. Inspired by ReactBits! https://www.reactbits.dev/text-animations/split-text 🚀
 
 ## 📌 Features  
 - ⏳ Adjustable **typing speed** via `SeekBar`  
